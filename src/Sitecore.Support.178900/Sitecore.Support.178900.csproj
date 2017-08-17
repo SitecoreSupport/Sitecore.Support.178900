@@ -54,7 +54,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.178900.config" />
     <Content Include="sitecore\shell\Applications\Content Manager\Content Editor.js" />
     <Content Include="sitecore\shell\Themes\Standard\Default\Content Manager.css" />
   </ItemGroup>
